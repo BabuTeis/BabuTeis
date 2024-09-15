@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/krulhaartje" target="blank"><img src="https://img.shields.io/twitter/follow/krulhaartje?logo=twitter&style=for-the-badge" alt="krulhaartje" /></a> </p>
 
-- 🌱 I’m currently learning **Algorithms and Data Structures (AI), Cognitive Psychology & General Linguistics**
+- 🌱 I’m currently learning **Object-Oriented Programming (for AI), Knowledge and Agent Systems & Statistics**
 
 - 💬 Ask me about **Python.**
 
