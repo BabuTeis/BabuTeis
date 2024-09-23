@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://ccl.northwestern.edu/netlogo/" target="_blank" rel="noreferrer"> 
-    <img src="https://ccl.northwestern.edu/images/netlogo-logos/netlogo-300x300.png" alt="NetLogo" width="40" height="40"/> 
+    <img src="https://netlogoweb.org/assets/images/desktopicon.png" alt="NetLogo" width="40" height="40"/> 
   </a> 
 </p>
 
