@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/s-huizinga-94995727b/](https://www.linkedin.com/in/s-huizinga-94995727b/)
 
-- ⚡ Fun fact **I'm currently studying to become a classical composer.**
+- ⚡ Fun fact **I'm currently trying to study abroad in Japan in my third year.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
