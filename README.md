@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/krulhaartje" target="blank"><img src="https://img.shields.io/twitter/follow/krulhaartje?logo=twitter&style=for-the-badge" alt="krulhaartje" /></a> </p>
 
-- 🌱 I’m currently learning **Object-Oriented Programming (for AI), Knowledge and Agent Systems & Statistics**
-
 - 💬 Ask me about **Python.**
 
 - 📫 How to reach me **huizingastijn@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/s-huizinga-94995727b/](https://www.linkedin.com/in/s-huizinga-94995727b/)
 
-- ⚡ Fun fact **I'm currently trying to study abroad in Japan in my third year.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
